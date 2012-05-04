@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+   
+      
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="30px"
+        android:layout_height="40px"
+        android:layout_marginLeft="4px"
+        android:layout_marginRight="8px"
+        android:layout_marginTop="8px"
+        android:src="@drawable/ic_launcher" >
+    </ImageView>
+    
+     <TableLayout android:id="@+id/tableLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        
+        <TableRow
+        android:id="@+id/tablerow1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/label"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+       android:text="@+id/TextView01"
+        
+        >
+    </TextView>
+    
+     <TextView
+        android:id="@+id/label2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@+id/TextView02">
+        </TextView>
+        
+     
+      <TextView
+        android:id="@+id/label3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@+id/TextView03">
+    
+        </TextView>
+        
+       <TextView
+        android:id="@+id/label4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@+id/TextView04">
+        </TextView>
+         <TextView
+        android:id="@+id/label5"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@+id/TextView05">
+        </TextView>
+    </TableRow>
+    </TableLayout>
+    
+</LinearLayout>
+	

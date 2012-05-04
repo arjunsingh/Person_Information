@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Person_InformationActivity!</string>
+    <string name="app_name">Person_Information</string>
+    <string name="no_information">empty field....</string>
+    <string name="menu_insert">Add Information</string>
+    <string name="menu_delete">Delete Information</string>
+    <string name="information_name">Name</string>
+    <string name="information_email_address">Email_Address</string>
+    <string name="information_phone_number">Phone_Number</string>
+    <string name="information_address">Address</string>
+    <string name="information_edit_name">Name</string>
+    <string name="information_edit_email_address">Email_Address</string>
+    <string name="information_edit_phone_number">Phone_Number</string>
+    <string name="information_edit_address">Address</string>
+    <string name="information_edit_confirm">Confirm</string>
+    <color name="listcolor">#FFE87C</color>
+    <color name="black">#000000</color>
+
+</resources>
